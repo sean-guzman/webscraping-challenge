@@ -2,7 +2,7 @@
 
 Sean Guzman
 
-Rutgers Data Sciences Bootcamp, Module 11 Challenge (01 May 2023)
+Rutgers Data Sciences Bootcamp, Module 11 Challenge (08 May 2023)
 
  This module challenge is divided into two parts:
  * Part 1: Scrape titles and preview text from Mars news articles.
